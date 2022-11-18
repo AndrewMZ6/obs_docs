@@ -11,13 +11,28 @@
             "id": "7c0222e056e66e6d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20221117152020.png"
+                "file": "Structural UML/Class diagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58ecc3f7bdd0cb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behavioral UML/Behavioral uml diagrams.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221117152020.png",
+                "file": "Behavioral UML/Behavioral uml diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221117152020.png",
+                "file": "Behavioral UML/Behavioral uml diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221117152020.png"
+                "file": "Behavioral UML/Behavioral uml diagrams.md"
               }
             }
           }
@@ -134,13 +149,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c0222e056e66e6d",
+  "active": "58ecc3f7bdd0cb41",
   "lastOpenFiles": [
+    "Structural UML/Multiplicity.md",
+    "UML Apps.md",
     "UML.md",
-    "Pasted image 20221117152020.png",
-    "Pasted image 20221117151614.png",
     "Structural UML/Class diagrams.md",
+    "Behavioral UML/Behavioral uml diagrams.md",
     "Structural UML/Structural uml diagrams.md",
-    "Behavioral UML/Behavioral uml diagrams.md"
+    "Multiplicity.md",
+    "Pasted image 20221117152020.png",
+    "Pasted image 20221117151614.png"
   ]
 }
